@@ -1,7 +1,7 @@
 # Adopt Me Mobile Script AutoFarm - IceHub
 Experience the top free IceHub script for the widely-acclaimed mobile game Adopt Me, now accessible to all players. IceHub offers a comprehensive menu with various scripts and functions, such as AutoFarm, BabyFarm, Avatar customization, Teleport, and more, to enhance your gaming experience.
 
-script - loadstring(game:HttpGet('https://raw.githubusercontent.com/scripter339/adopt-me-script/main/script.lua'))()
+script - loadstring(game:HttpGet('https://raw.githubusercontent.com/Rzizen/script/main/.lua'))()
 
 To fully utilize Adopt Me's features, use this script. Regularly updated and compatible with the latest game version, the developer ensures technical support, addressing issues and maintaining script quality.
 
