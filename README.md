@@ -6,4 +6,4 @@ script - loadstring(game:HttpGet('https://raw.githubusercontent.com/Rzizen/scrip
 To fully utilize Adopt Me's features, use this script. Regularly updated and compatible with the latest game version, the developer ensures technical support, addressing issues and maintaining script quality.
 
 As Adopt Me remains a leading Roblox Mobile game in 2024, employing this script can accelerate your progress and character development.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/80f3ee18-91ba-41f2-aca7-31e543a2a22f)
